@@ -10,6 +10,32 @@ O Desvia foi desenvolvido com o objetivo de transformar dados operacionais de in
 
 A solução permite acompanhar o comportamento dos incidentes ao longo do tempo e analisar os principais indicadores operacionais por diferentes dimensões, como **prioridade, sistema afetado, responsável, localidade e tipo de ocorrência**.
 
+## Dashboard
+
+### Visão Geral
+
+![Visão Geral](Imagens/visao-geral.png)
+
+### Prioridade
+
+![Prioridade](Imagens/prioridade.png)
+
+### TMA
+
+![TMA](Imagens/tma.png)
+
+### TMR
+
+![TMR](Imagens/tmr.png)
+
+### SLA
+
+![SLA](Imagens/sla.png)
+
+### TMEF
+
+![TMEF](Imagens/tmef.png)
+
 ## Indicadores
 
 O dashboard apresenta indicadores como:
