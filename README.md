@@ -10,6 +10,18 @@ O Desvia foi desenvolvido com o objetivo de transformar dados operacionais de in
 
 A solução permite acompanhar o comportamento dos incidentes ao longo do tempo e analisar os principais indicadores operacionais por diferentes dimensões, como **prioridade, sistema afetado, responsável, localidade e tipo de ocorrência**.
 
+## Estrutura do Dashboard
+
+O relatório é organizado em diferentes visões analíticas:
+
+- Home
+- Ano/Mês
+- Prioridade
+- TMA
+- TMR
+- SLA
+- TMEF
+
 ## Dashboard
 
 ### Visão Geral
@@ -78,17 +90,6 @@ A solução utiliza uma base de dados fictícia, desenvolvida para fins de demon
 
 A base contém informações relacionadas a incidentes, solicitações, problemas e mudanças, incluindo dados de prioridade, status, atendimento, resolução, SLA, sistemas afetados e demais atributos operacionais.
 
-## Estrutura do Dashboard
-
-O relatório é organizado em diferentes visões analíticas:
-
-- Home
-- Ano/Mês
-- Prioridade
-- TMA
-- TMR
-- SLA
-- TMEF
 
 ## 🏆 Reconhecimento
 
