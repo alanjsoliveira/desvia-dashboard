@@ -4,16 +4,6 @@ Dashboard de Business Intelligence desenvolvido em **Power BI** para monitoramen
 
 A solução centraliza informações operacionais e apresenta indicadores de **atendimento, resolução, SLA, reincidência e desempenho dos sistemas**.
 
-## 🏆 Reconhecimento
-
-Este projeto recebeu um **Certificado de Reconhecimento e Excelência** concedido pela Faculdade Impacta, no contexto da disciplina de Gestão de Projetos de TI.
-
-O reconhecimento foi concedido em **08 de dezembro de 2025**, durante o 2º semestre do Bacharelado em Sistemas de Informação, em reconhecimento ao destaque apresentado no projeto.
-
-<p align="center">
-  <img src="Documentação/Certificado%20Reconhecimento.jpeg" alt="Certificado de Reconhecimento e Excelência — Desvia" width="700">
-</p>
-
 ## Dashboard
 
 <p align="center">
@@ -50,3 +40,13 @@ As demais visões analíticas estão disponíveis na pasta [`Imagens`](Imagens/)
 - TMR
 - SLA
 - TMEF
+
+## 🏆 Reconhecimento
+
+Este projeto recebeu um **Certificado de Reconhecimento e Excelência** concedido pela Faculdade Impacta, no contexto da disciplina de Gestão de Projetos de TI.
+
+O reconhecimento foi concedido em **08 de dezembro de 2025**, durante o 2º semestre do Bacharelado em Sistemas de Informação, em reconhecimento ao destaque apresentado no projeto.
+
+<p align="center">
+  <img src="Documentação/Certificado%20Reconhecimento.jpeg" alt="Certificado de Reconhecimento e Excelência — Desvia" width="700">
+</p>
